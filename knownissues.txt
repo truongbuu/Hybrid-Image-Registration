@@ -1,0 +1,8 @@
+Image 14 in SAV gives wrong solution, SSE gives a better value
+Image 9: function intesity like 15 (other still gives wrong solution)
+Image 10: same with 9
+
+
+Wrong detection 13_2 extra area detected
+47_1 ROI too small
+extra area 47_2

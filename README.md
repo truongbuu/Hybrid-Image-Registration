@@ -8,5 +8,5 @@ The hybrid image registraion method is described in file: report.pdf
 
 Usage: Run files experiment2.m for registrating 2 retina images using both feature based and intensity based method. To change for new pairs, change id1 and id2 file.
 
-To obtain the ROI, run the https://github.com/truongbuu/optic-nerve-cnn to obtain the segmentation. The ROI format is: [xmin xmax ymin ymax]
+To obtain the ROI, run the https://github.com/truongbuu/optic-nerve-cnn (forked from: https://github.com/seva100/optic-nerve-cnn/tree/master/scripts)to obtain the segmentation. The ROI format is: [xmin xmax ymin ymax]
 
